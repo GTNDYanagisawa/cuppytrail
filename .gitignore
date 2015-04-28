@@ -1,8 +1,8 @@
 *.class
 
-data/
-log/
-sampleconfigurations/
-temp/
-bin/ext-*/
-bin/platform/
+/data/
+/log/
+/sampleconfigurations/
+/temp/
+/bin/ext-*/
+/bin/platform/
