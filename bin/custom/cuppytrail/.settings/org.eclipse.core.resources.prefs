@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//resources/impex/essentialdataWorkflow.impex=UTF-8
+encoding//resources/impex/projectdataStadium.impex=UTF-8
+encoding//src/de/hybris/platform/cuppytrail/daos/StadiumDAO.java=UTF-8
+encoding//testsrc/de/hybris/platform/cuppytrail/daos/impl/DefaultStadiumDAOIntegrationTest.java=UTF-8

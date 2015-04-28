@@ -1,0 +1,11 @@
+*.class
+
+data/
+log/
+sampleconfigurations/
+temp/
+config/*.*
+!local.properties
+!localextensions.xml
+bin/ext-*/
+bin/platform/
