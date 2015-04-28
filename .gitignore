@@ -4,6 +4,7 @@ data/
 log/
 sampleconfigurations/
 temp/
+config/*/
 config/*.*
 !local.properties
 !localextensions.xml
